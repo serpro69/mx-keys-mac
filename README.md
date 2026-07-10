@@ -22,6 +22,11 @@ Install
 ===
 `sudo make install`
 
+Then [enable the layout](https://software.sil.org/ukelele/#instructions) by adding a new `English - U.S. International ,PC mx-keys` input source:
+
+- macOS 10.10 and later: System Preferences > Keyboard > Input Sources
+- macOS 10.6 to 10.9: System Preferences > Language & Text > Input Sources
+- macOS 10.5 and earlier: System Preferences > International > Input
 
 Uninstall
 ===
